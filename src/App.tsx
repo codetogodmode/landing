@@ -64,7 +64,7 @@ const STEPS: Step[] = [
     action: "Vytvořit účet",
     actionUrl: "https://discord.com/register",
     secondAction: "Připojit se na server",
-    secondUrl: "https://discord.gg/PLACEHOLDER",
+    secondUrl: "https://discord.gg/JYFMuUcyb",
     icon: <DiscordIcon />,
   },
   {
